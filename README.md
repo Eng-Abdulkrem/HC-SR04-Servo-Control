@@ -51,8 +51,9 @@
 ## المحاكاة
 
 تم تنفيذ المشروع واختباره باستخدام **Tinkercad**، وتم التأكد من عمل الدائرة والكود بالشكل المطلوب.
+## رابط المحاكاة
 
-
+[Tinkercad Simulation](https://www.tinkercad.com/things/2T9t51cjD6O/editel?returnTo=%2Fdashboard&sharecode=ImV3VTjT1FL-2vaX7mMjZDqHTLLHYsSDKth-1lsgets)
 ## التطبيق العملي
 
 بعد نجاح المحاكاة، تم تنفيذ المشروع باستخدام المكونات الحقيقية، وتم تشغيله بواسطة برنامج **Arduino IDE**، وكانت النتائج مطابقة للمحاكاة.
